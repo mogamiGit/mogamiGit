@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👐 Welcome to my Github <img src="https://media.giphy.com/media/AHj0lQstZ9I9W/giphy.gif" width="80px">
+
+### I'm Monica Galan! iOs Developer & Graphic designer.
+
+I'm a Graphic Designer that one day felt the call of ![Swift](https://img.shields.io/badge/SWIFT-E34F26?style=for-the-badge&logo=swift&logoColor=white)
+
 
 <!--
 **mogamiGit/mogamiGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
