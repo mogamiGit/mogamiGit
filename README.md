@@ -2,8 +2,8 @@
 
 ### I'm Monica Galan! Front-End Developer & Graphic designer.
 
-I'm a Graphic Designer that one day felt the call of [![SwiftUI](https://img.shields.io/badge/SWIFT-E34F26?style=for-the-badge&logo=swift&logoColor=white)] [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white
-)]
+I'm a Graphic Designer that one day felt the call of [![SwiftUI](https://img.shields.io/badge/SWIFT-E34F26?style=for-the-badge&logo=swift&logoColor=white), ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white
+]
 
 
 <!--
